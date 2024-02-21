@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 785,
+      "ypos": 464,
+      "width": 348,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "authorized_uses_only_loginscreen"
+  ]
+}

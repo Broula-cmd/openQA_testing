@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 73,
+      "ypos": 233,
+      "width": 54,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install_button_bootscreen"
+  ]
+}

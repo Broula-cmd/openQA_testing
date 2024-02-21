@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 17,
+      "height": 41,
+      "type": "match",
+      "xpos": 246,
+      "width": 152
+    },
+    {
+      "width": 457,
+      "ypos": 69,
+      "height": 19,
+      "type": "match",
+      "xpos": 87
+    },
+    {
+      "xpos": 73,
+      "ypos": 233,
+      "width": 55,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "install_button"
+  ]
+}

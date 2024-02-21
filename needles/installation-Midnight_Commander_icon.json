@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 40,
+      "ypos": 125,
+      "width": 45,
+      "height": 65,
+      "type": "match"
+    },
+    {
+      "xpos": 22,
+      "ypos": 23,
+      "width": 80,
+      "height": 76,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "Midnight_Commander_icon"
+  ]
+}

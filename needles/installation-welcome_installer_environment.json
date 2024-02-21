@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 41,
+      "type": "match",
+      "width": 152,
+      "ypos": 17,
+      "xpos": 246
+    },
+    {
+      "xpos": 87,
+      "ypos": 70,
+      "width": 456,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "welcome_installer_environment"
+  ]
+}

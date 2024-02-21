@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 707,
+      "ypos": 314,
+      "width": 506,
+      "height": 359,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "konsole_eris_qemu"
+  ]
+}

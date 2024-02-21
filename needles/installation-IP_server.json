@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "width": 152,
+      "ypos": 17,
+      "height": 41,
+      "xpos": 246,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 87,
+      "ypos": 69,
+      "height": 19,
+      "width": 457
+    },
+    {
+      "xpos": 73,
+      "ypos": 135,
+      "width": 175,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 74,
+      "ypos": 152,
+      "width": 190,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "IP_server"
+  ]
+}

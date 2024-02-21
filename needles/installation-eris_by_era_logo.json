@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 767,
+      "ypos": 544,
+      "width": 387,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "xpos": 75,
+      "ypos": 15,
+      "width": 345,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "eris_by_era_logo"
+  ]
+}

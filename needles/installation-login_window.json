@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 767,
+      "ypos": 544,
+      "width": 387,
+      "height": 40,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "login_window"
+  ]
+}

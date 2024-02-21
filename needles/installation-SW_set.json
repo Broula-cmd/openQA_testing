@@ -1,0 +1,57 @@
+{
+  "area": [
+    {
+      "width": 152,
+      "height": 41,
+      "ypos": 17,
+      "type": "match",
+      "xpos": 246
+    },
+    {
+      "type": "match",
+      "xpos": 87,
+      "height": 19,
+      "ypos": 69,
+      "width": 457
+    },
+    {
+      "height": 16,
+      "ypos": 135,
+      "xpos": 73,
+      "type": "match",
+      "width": 175
+    },
+    {
+      "height": 15,
+      "ypos": 152,
+      "type": "match",
+      "xpos": 74,
+      "width": 190
+    },
+    {
+      "width": 151,
+      "height": 12,
+      "ypos": 170,
+      "xpos": 73,
+      "type": "match"
+    },
+    {
+      "height": 14,
+      "ypos": 185,
+      "type": "match",
+      "xpos": 71,
+      "width": 274
+    },
+    {
+      "xpos": 72,
+      "ypos": 201,
+      "width": 168,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "SW_set"
+  ]
+}

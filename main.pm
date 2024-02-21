@@ -6,6 +6,6 @@ use Mojo::Base -strict;
 use testapi;
 use autotest;
 
-autotest::loadtest 'tests/boot.pm';
+autotest::loadtest 'tests/CIS_usecase_n1.pm';
 
 1;
